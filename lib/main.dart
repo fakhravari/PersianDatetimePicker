@@ -15,7 +15,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: androidTheme,
-      home: new MyHomePage(key: super.key, title: 'دیت تایم پیکر فارسی'),
+      home: new MyHomePage(
+          key: super.key, title: 'دیت تایم پیکر فارسی  fakhravari.ir'),
     );
   }
 }
