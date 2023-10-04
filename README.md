@@ -1,16 +1,9 @@
-# example
+# Persian Datetime Picker
 
-A new Flutter project.
+pubspec
+<br/>
+ persian_datetime_picker: ^2.6.0
 
-## Getting Started
+![Screenshot 2023-05-22 212021](https://github.com/fakhravari/Stimulsoft-Reports.Web-for-.Net-Core-7/assets/4311975/9d6cd248-1585-440b-b085-8e227a6f78c2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-05-22 211750](https://github.com/fakhravari/Stimulsoft-Reports.Web-for-.Net-Core-7/assets/4311975/f63516ad-ddef-4ca7-baeb-925ded13065b)
